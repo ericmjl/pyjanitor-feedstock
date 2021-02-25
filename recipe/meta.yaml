@@ -19,12 +19,14 @@ requirements:
     - pip
   run:
     - python >=3.6
+    - multipledispatch
     - natsort
     - numpy
     - pandas
     - pandas-flavor
     - requests
     - scikit-learn
+    - scipy
     - xarray
     - xlrd
 
